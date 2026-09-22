@@ -31,10 +31,6 @@
 
 <p align="center"><sub>INTELIGENCIA ARTIFICIAL</sub></p>
 
-<p align="center">
-  <img src="assets/neural-net.svg" width="100%" alt="Red neuronal animada">
-</p>
-
 <table align="center">
 <tr>
 <td width="33%" valign="top">
