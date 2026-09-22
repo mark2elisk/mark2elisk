@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=22D3EE&background=10131A&center=true&vCenter=true&width=600&height=45&lines=Reparo%2C+programo+y+automatizo.;Hardware%2C+software+y+redes.;IA+aplicada+a+negocios+reales." alt="Reparo, programo y automatizo.">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=22D3EE&background=10131A&center=true&vCenter=true&width=600&height=45&lines=Experto+en+Inteligencia+Artificial.;Agentes%2C+automatizaciones+y+software+con+IA.;Tambi%C3%A9n+hardware%2C+redes+y+servidores." alt="Experto en Inteligencia Artificial.">
 </p>
 
 <p align="center">
@@ -12,13 +12,71 @@
 </p>
 
 <p align="center">
-  Técnico IT y desarrollador: reparo hardware, programo y monto redes y servidores,<br>
-  y colaboro con <a href="https://github.com/sistemasmanyaro-dev">ManYaro Tech</a> en automatización con IA para negocios locales.
+  Desarrollador especializado en Inteligencia Artificial: diseño agentes,<br>
+  automatizaciones y software con IA de principio a fin. También soy técnico<br>
+  IT — reparo hardware y monto redes y servidores — y he colaborado con
+  <a href="https://github.com/sistemasmanyaro-dev">ManYaro Tech</a> en
+  automatización con IA para negocios locales.
 </p>
 
 <p align="center">
   <img src="assets/flow-hero.svg" width="100%" alt="Flujo: hardware, software, redes, cliente">
 </p>
+
+<br>
+
+<p align="center"><sub>INTELIGENCIA ARTIFICIAL</sub></p>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Desarrollador de IA**
+
+Diseño e integro soluciones de inteligencia artificial a medida de cada proyecto.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Aplicaciones con IA**
+
+Desarrollo aplicaciones que incorporan IA de principio a fin, no como un añadido.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Software con IA**
+
+Construyo software a medida que usa IA para resolver problemas reales de negocio.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Automatizaciones**
+
+Automatizo tareas y flujos de trabajo repetitivos para ahorrar tiempo y reducir errores.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Agentes de IA**
+
+Diseño y despliego agentes autónomos que ejecutan tareas concretas de principio a fin.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **Procesos con IA**
+
+Rediseño procesos de negocio completos apoyándolos en inteligencia artificial.
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" height="4" alt="">
 
 <br>
 
@@ -88,7 +146,7 @@ Montaje, ampliación, limpieza y diagnóstico de ordenadores de torre.
 
 <br>
 
-<p align="center"><sub>CON QUÉ TRABAJO EN MANYARO TECH</sub></p>
+<p align="center"><sub>HERRAMIENTAS CON LAS QUE HE TRABAJADO</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-10131a?style=for-the-badge&logo=n8n&logoColor=22d3ee" alt="n8n">
