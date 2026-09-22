@@ -7,16 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sistemasmanyaro-dev"><img src="https://img.shields.io/badge/Colaborador-ManYaro_Tech-f5a524?style=flat-square" alt="Colaborador en ManYaro Tech"></a>
   <a href="https://github.com/mark2elisk"><img src="https://img.shields.io/badge/GitHub-mark2elisk-22d3ee?style=flat-square" alt="GitHub mark2elisk"></a>
 </p>
 
 <p align="center">
   Desarrollador especializado en Inteligencia Artificial: diseño agentes,<br>
   automatizaciones y software con IA de principio a fin. También soy técnico<br>
-  IT — reparo hardware y monto redes y servidores — y he colaborado con
-  <a href="https://github.com/sistemasmanyaro-dev">ManYaro Tech</a> en
-  automatización con IA para negocios locales.
+  IT — reparo hardware y monto redes y servidores.
 </p>
 
 <p align="center">
@@ -193,4 +190,4 @@ Montaje, ampliación, limpieza y diagnóstico de ordenadores de torre.
 
 <img src="assets/divider.svg" width="100%" height="4" alt="">
 
-<p align="center"><sub>Mark2Eli — Colaborador en <a href="https://github.com/sistemasmanyaro-dev">ManYaro Tech</a></sub></p>
+<p align="center"><sub>Mark2Eli</sub></p>
