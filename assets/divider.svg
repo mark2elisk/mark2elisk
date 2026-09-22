@@ -1,0 +1,12 @@
+<svg width="100%" height="6" viewBox="0 0 1200 6" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="-1200" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#10131a"/>
+      <stop offset="42%" stop-color="#22d3ee"/>
+      <stop offset="58%" stop-color="#f5a524"/>
+      <stop offset="100%" stop-color="#10131a"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2400 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="6" fill="url(#shimmer)"/>
+</svg>
