@@ -20,12 +20,20 @@
 </p>
 
 <p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, skills --ia, colaboraciones">
+</p>
+
+<p align="center">
   <img src="assets/flow-hero.svg" width="100%" alt="Flujo: hardware, software, redes, cliente">
 </p>
 
 <br>
 
 <p align="center"><sub>INTELIGENCIA ARTIFICIAL</sub></p>
+
+<p align="center">
+  <img src="assets/neural-net.svg" width="100%" alt="Red neuronal animada">
+</p>
 
 <table align="center">
 <tr>
