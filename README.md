@@ -20,10 +20,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, skills --ia, colaboraciones">
-</p>
-
-<p align="center">
   <img src="assets/flow-hero.svg" width="100%" alt="Flujo: hardware, software, redes, cliente">
 </p>
 
