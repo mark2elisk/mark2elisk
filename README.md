@@ -143,6 +143,26 @@ Montaje, ampliación, limpieza y diagnóstico de ordenadores de torre.
 
 <br>
 
+<p align="center"><sub>PROYECTOS DESTACADOS</sub></p>
+
+<table align="center">
+<tr>
+<td width="100%" valign="top">
+
+<img src="assets/pulse-dot.svg" width="10" height="10" valign="middle" alt=""> **aegis-scan** <sub>v0.2.0</sub>
+
+SaaS de escaneo de archivos: FastAPI + ClamAV real + explicación de amenazas con IA + frontend Next.js.
+
+<a href="https://github.com/mark2elisk/aegis-scan"><img src="https://img.shields.io/badge/Ver_repositorio-22d3ee?style=flat-square" alt="Ver aegis-scan"></a>
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" height="4" alt="">
+
+<br>
+
 <p align="center"><sub>HERRAMIENTAS CON LAS QUE HE TRABAJADO</sub></p>
 
 <p align="center">
@@ -186,6 +206,16 @@ Montaje, ampliación, limpieza y diagnóstico de ordenadores de torre.
   <img src="https://img.shields.io/badge/ElevenLabs-10131a?style=for-the-badge&logo=elevenlabs&logoColor=f5a524" alt="ElevenLabs">
   <img src="https://img.shields.io/badge/Make-10131a?style=for-the-badge&logo=make&logoColor=22d3ee" alt="Make">
   <img src="https://img.shields.io/badge/Midjourney-10131a?style=for-the-badge&logo=midjourney&logoColor=f5a524" alt="Midjourney">
+</p>
+
+<img src="assets/divider.svg" width="100%" height="4" alt="">
+
+<br>
+
+<p align="center"><sub>ACTIVIDAD</sub></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mark2elisk&hide_border=true&background=10131A&ring=22D3EE&fire=F5A524&currStreakLabel=22D3EE&sideLabels=9AA3AF&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=9AA3AF" alt="Racha de contribuciones de mark2elisk" height="165">
 </p>
 
 <img src="assets/divider.svg" width="100%" height="4" alt="">
