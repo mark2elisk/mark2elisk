@@ -215,7 +215,6 @@ SaaS de escaneo de archivos: FastAPI + ClamAV real + explicación de amenazas co
 <p align="center"><sub>ACTIVIDAD</sub></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mark2elisk&show_icons=true&hide_border=true&bg_color=10131a&title_color=22d3ee&icon_color=f5a524&text_color=e6edf3" alt="Estadísticas de GitHub de mark2elisk" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mark2elisk&hide_border=true&background=10131A&ring=22D3EE&fire=F5A524&currStreakLabel=22D3EE&sideLabels=9AA3AF&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=9AA3AF" alt="Racha de contribuciones de mark2elisk" height="165">
 </p>
 
